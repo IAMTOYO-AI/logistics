@@ -1,0 +1,8 @@
+{
+  "name": "PulseLogistics - Real-Time On-Demand Rider & Delivery Network",
+  "description": "Minimalist logistics platform connecting customers with nearest couriers, featuring live GPS tracking, instant rider dispatch, multi-gateway payments, automated notifications, and delivery reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
